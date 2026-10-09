@@ -1,0 +1,3 @@
+# Routes checked by scripts/route-check (expects 2xx on a seeded database)
+/
+/login
