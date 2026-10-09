@@ -1,8 +1,8 @@
 # Project conventions
 
-This is the **Blank app** starter. Edit anything freely as the user requests.
+This is the **A blank screen** starter. Edit anything freely as the user requests.
 
-An empty Next.js + Postgres app: app shell, sign-in and a database, with a single friendly empty page. Start building from here.
+Start from an empty page and build whatever you like. An empty Next.js + Postgres app: app shell, sign-in and a database, with a single friendly empty page.
 
 ## Package manager
 

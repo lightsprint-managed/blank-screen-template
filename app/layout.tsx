@@ -2,7 +2,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'My App',
-  description: 'A blank Next.js + Postgres app.'
+  description: 'Start from an empty page and build whatever you like.'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
